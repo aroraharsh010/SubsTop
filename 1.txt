@@ -1,0 +1,9 @@
+SubsTop is an subscription management app which handles multiplee accounts with ease. 
+This app lets you 
+-Monitor all your subsciptions across various accounts at a single place 
+-Track monthly usage 
+-See the best offers for you over different services 
+-manage and track expenses with ease 
+-remove and shut account with ease 
+it’s never been easier to detect subscriptions and expenses across accounts.Now an app that helps you add and monitor your subscriptions 
+over various accounts.
