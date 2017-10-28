@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\86488d79cc332047732b1f50fbdd76c16e8fd78f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SubsTop\app\build\intermediates\pre-dexed\debug\classes_1df5392fd10bd8deb12b5b6a733d5757ba5fcef6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\SubsTop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c341e9ed06c4c905e46c2eb3a2776e0fa398e90">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SubsTop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_497dfcb920a146ef6bb09d217d39b596320b11cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\bb04dd5d87bd160995eaa16123480f374d7beca8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SubsTop\app\build\intermediates\pre-dexed\debug\classes_5c8d8212986cbffc753758e2f9089b60d4b2b776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\dcfac5261b13a9d774009a8dfbc1500f42fe5d37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SubsTop\app\build\intermediates\pre-dexed\debug\classes_92e0ebcc024e9858aa4f8ec058a39f4a4d288c3c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\SubsTop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\SubsTop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4c5353756840c268e8d80875be9bb236b082807b\classes.dex" />
+    </item>
+
+</items>
